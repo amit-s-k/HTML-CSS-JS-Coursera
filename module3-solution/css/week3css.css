@@ -1,1 +1,16 @@
-
+        nav{
+            background-color:darksalmon;
+        }
+        button.navbar-toggler{
+            border: 2px solid black;
+            background-color: bisque;
+        }
+       div.col-12{
+            border: 1px solid black;
+           background-color: darkgrey;
+            margin: both;
+            margin: 5px;
+        }
+        h3{
+            margin: 20px;
+        }
